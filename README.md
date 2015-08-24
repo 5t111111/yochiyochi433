@@ -20,7 +20,20 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require "yochiyochi433"
+
+Yochiyochi433.play
+
+# 4'33" performance is about to begin.
+# 10 secs had elapsed...
+# 20 secs had elapsed...
+# 30 secs had elapsed...
+# ...
+# 260 secs had elapsed...
+# 270 secs had elapsed...
+# 4'33" performance has ended.
+```
 
 ## Development
 
